@@ -4,7 +4,7 @@
 // @version			1.0
 // @description		Adds the title of the topic when someone replies to your notifications.
 // @author			Aapjuh
-// @icon			https://raw.githubusercontent.com/Aapjuh/RoyalRoad-Forum-Mark-Read/main/RR-logo.png
+// @icon			https://raw.githubusercontent.com/Aapjuh/RoyalRoad-Thread-Title-Notification/main/RR-logo.png
 // @supportURL		https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/issues
 // @homepageURL		https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification
 // @downloadURL		https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/raw/main/RoyalRoad-Thread-Title-Notification.user.js
