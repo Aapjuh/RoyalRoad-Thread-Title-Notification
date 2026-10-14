@@ -25,11 +25,11 @@ You can try it and it will likely work, but I have not tested it on others mysel
 
 ## Change log
 
-### 1.2 (2026-10-13)
+### 1.2 (2026-10-15)
 
 - Now converts HTML symbols to plain text. (e.g. &#27; = ' )
 
-### 1.1 (2026-10-13)
+### 1.1 (2026-10-14)
 
 - Added RoyalRoad NewUI
 
