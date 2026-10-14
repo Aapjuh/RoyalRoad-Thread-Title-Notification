@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			RoyalRoad Thread Title Notification NewUI
 // @namespace		RoyalRoad Thread Title Notification NewUI
-// @version			1.1
+// @version			1.2
 // @description		Adds the title of the topic when someone replies to your notifications.
 // @author			Aapjuh
 // @icon			https://raw.githubusercontent.com/Aapjuh/RoyalRoad-Thread-Title-Notification/main/RR-logo.png
@@ -73,6 +73,9 @@
 				NoteText.textContent = NoteText.textContent.replace('a thread you are subscribed to.', '');
 				//--- add the texts together
 				NoteText.append(GetTopicTitle(response) + GetQuote(UserName, HrefPID, response));
+                //Convert HTML symbols to plain text
+                var $NoteText = $(NoteText);
+                $NoteText.html($NoteText.text())
 			});
 		}
 	}
