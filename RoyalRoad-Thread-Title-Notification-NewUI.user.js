@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			RoyalRoad Thread Title Notification NewUI
 // @namespace		RoyalRoad Thread Title Notification NewUI
-// @version			1.0
+// @version			1.1
 // @description		Adds the title of the topic when someone replies to your notifications.
 // @author			Aapjuh
 // @icon			https://raw.githubusercontent.com/Aapjuh/RoyalRoad-Thread-Title-Notification/main/RR-logo.png
