@@ -17,10 +17,17 @@ This script might not work properly on script managers other than Tampermonkey.
 You can try it and it will likely work, but I have not tested it on others myself.
 
 ### STEP 2. UserScript
+*This one is for the RoyalRoad NewUI
+- [Install](https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/raw/main/RoyalRoad-Thread-Title-Notification-NewUI.user.js) from [https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/raw/main/RoyalRoad-Thread-Title-Notification-NewUI.user.js](https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/raw/main/RoyalRoad-Thread-Title-Notification-NewUI.user.js)
 
+*This one is for the RoyalRoad OldUI
 - [Install](https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/raw/main/RoyalRoad-Thread-Title-Notification.user.js) from [https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/raw/main/RoyalRoad-Thread-Title-Notification.user.js](https://github.com/Aapjuh/RoyalRoad-Thread-Title-Notification/raw/main/RoyalRoad-Thread-Title-Notification.user.js)
 
 ## Change log
+
+### 1.1 (2026-10-13)
+
+- Added RoyalRoad NewUI
 
 ### 1.0 (2026-10-13)
 
